@@ -1,0 +1,51 @@
+html {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	box-sizing: border-box;
+}
+
+.ticket-wrapper {
+	display: flex;
+	flex-direction: column;
+	width: 600px;
+	height: 300px;
+	background-color: black;
+	border: 1px solid blue;
+	border-radius: 10px;
+	padding: 50px;
+}
+
+.personal-info-wrapper {
+	display: flex;
+}
+
+.avatar {
+	width: 80px;
+	height: 80px;
+	background-color: red;
+	border-radius: 40px;
+}
+
+.personal-info {
+	display: flex;
+	flex-direction: column;
+}
+
+.personal-info-name {
+	color: white;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.personal-info-github {
+	color: white;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	display: inline;
+}
+
+.personal-info-github-icon {
+	display: inline;
+}

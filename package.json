@@ -1,0 +1,23 @@
+{
+	"name": "ui-challenges",
+	"version": "1.0.0",
+	"description": "Challenges to work on my ui skills :star2:",
+	"main": "index.js",
+	"scripts": {
+		"parcel": "parcel"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/maciekglowacki/ui-challenges.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/maciekglowacki/ui-challenges/issues"
+	},
+	"homepage": "https://github.com/maciekglowacki/ui-challenges#readme",
+	"dependencies": {
+		"parcel-bundler": "^1.12.4"
+	}
+}
